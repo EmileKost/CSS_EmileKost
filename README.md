@@ -69,7 +69,7 @@ Voorbeeld van de code die gebruikt is voor de media queries:
 <h2>Conclusie</h2>
 Ik vind dat ik in dit vak heel erg veel geleerd heb over CSS. Ik ben dan ook zeer tevreden over wat ik in dit vak gedaan heb. Ik vind persoonlijk dat ik mij in dit vak erg goed heb ontwikkeld en veel heb geleerd. Ik heb voor mijzelf al m'n leerdoelen behaald. Ik heb heel veel geleerd over positionering, door middel van het gebruik van een grid. Tevens heb ik veel geleerd over kleur en styling en het maken van een responsive design. Dit waren voor mij de focuspunten van dit vak, dit mede omdat dit nog heel vaak gaat voorkomen in het coderen van website's en is naar mijn mening ook een van de fundamentels in het worden van een goede front end developer. Ik moet wel eerlijk zijn dat ik het uiteindelijke design iets moooier had gewild, ik ben nu nog niet 100% tevreden over het design. De reden dat dit nog niet optimaal is is omdat ik door problemen met de responsivness en grid veel tijd de laatste week kwijt was aan het responsive make van mijn design. Ik vind het erg jammer dat ik het design niet volledig heb kunnen maken. maar ben aan de andere kant ook heel blij hier mee. Dit omdat ik hierdoor mij heb kunnen verdiepen in media queries en hier door veel geleerd heb over het maken van een responsive design. Al met al vond ik het een geslaagd maar vooral ook heel leuk vak en project.
 
-
+<h3>Link naar website: https://emilekost.github.io/CSS_EmileKost/ </h3>
 
 
 
