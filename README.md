@@ -31,5 +31,21 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
 
 
 <h2>Week 3</h2>
+In week drie ben ik dan eindelijk begonnen met het maken van de grid template voor mijn eindopdracht. Dit ging aan het begin zeker niet met slag of stoot. Ik had besloten om mijn grid op te delen in vijf kolommen en een automatisch aantal rijen. Dit heb ik echter later verandert omdat dit niet naar behoren werkte. 
+<img width="507" alt="Schermafbeelding 2022-03-09 om 21 16 26" src="https://user-images.githubusercontent.com/70690100/157527590-a3c21708-0139-4132-abde-b396eae622d8.png">
+Dit was de eerste grid template die ik voor mijn website had opgesteld. 
+Na het aanmaken van de grid vond ik het positioneren van de content al een stuk gemakkelijker worden. Alles viel netjes op zijn plek en door middel van de grid kon ik erg gestructureerd aan het werk. Tevens kon ik na het aanmaken van de grid mijn focus gaan leggen op het design van de website. 
+<img width="981" alt="Schermafbeelding 2022-03-09 om 21 19 09" src="https://user-images.githubusercontent.com/70690100/157528221-3857f420-1d1a-4d6f-99db-1c05ad8ea64a.png">
+Hier zie je dat ik door de grid heel gemakkelijk items op verschillende plekken kon plaatsen. 
+Naast de grid ben ik ook nog bezig geweest met het maken van figuren, gradients, borders en andere verschillende soorten styling elementen. 
+Aan het begin was ik heel moeilijk aan het doen om verschillende rechthoeken boven op een image te plaatsen. Ik was veel aan het proberen met margins, maar door het schalen van de website kwamen deze elementen al snel op de verkeerde plek. Op een gegeven kwam ik erachter dat dit veel makkelijker kon. Het is namelijk mogelijk om een border van een element verschillende kleuren mee te geven met het element linear-gradient(). Door op de kleuren in procenten als het ware te overlappen krijg je in plaats van een gradient verschillende blokken in verschillende kleuren, allemaal in een border. De code is als volgt:
+<img width="521" alt="Schermafbeelding 2022-03-09 om 21 24 24" src="https://user-images.githubusercontent.com/70690100/157529676-916ccbdf-6d52-4afb-9b86-54d5ead7a313.png">
+
+
+
+
+
+
+
 
 
