@@ -52,6 +52,23 @@ Dit is hoe het design eruit zag bij het schalen van de website:
 
 <h2>Week 4</h2>
 In week vier had ik een groot probleem en voor mij ook een mooie eind oefening, de website moest responsive. Dit was voor mij dan ook het perfecte moment om hier over te leren, en dit is dan ook geslaagd. In week drie had ik besloten om de website opnieuw op te bouwen. Ik heb deze week alle content en CSS in comments gezet om zo stap voor stap naar beneden te kunnen werken. Om mijn website responsive te krijgen was het allereerst belangrijk dat mijn hoogte en breedte van de grid in procenten werd weergegeven. Het was hiernaast ook belangrijk dat alle content schaalbaar is, dit betekende dat ik veel elementen qua omvang moest aangeven met procenten. Toch was ik hier nog niet helemaal tevreden over. Ik besloot om mij te gaan verdiepen in media queries. Door middel van media queries zou ik mijn gehele indeling van mijn website kunnen aanpassen op het basis van het schalen van het scherm. Ik ben mij daarom gaan inlezen over de media queries, het werd mij gelukkig alsnel duidelijk hoe media queries werken. Daar was ik erg blijk mee omdat ik anders wel in redelijke tijdnood was gekomen. Ik ben met de media queries alle elementen stap voor stap gaan manipuleren zodat deze bij het schalen van de website zouden veranderen van positite en eventueel ook stijl.
+De media queries die ik gebruikt zijn: @media screen and (max-width: 500px), (max-width: 768px), (max-width: 1024px). Ik heb vervolgens bij elk element bepaald wat er bij de verschillende grootes moest veranderen. Bij sommige elementen sloeg ik soms wel eens een max-width over omdat dit dan niet van toepassing was. Deze week was desondanks de tegenslag van week drie zeer leerzaam omdat ik door deze week goed geleerd heb hoe ik een responsive design maak door middel van grid en media queries.
+Hieronder de verschillende scherm grootes waarbij de media queries invloed hebben gehad: 
+<img width="1313" alt="Schermafbeelding 2022-03-09 om 21 49 52" src="https://user-images.githubusercontent.com/70690100/157533541-8fbc68eb-f7d9-487e-9f1a-12e8a7e9496c.png">
+Dit is de media query van 1024 pixels (laptop)
+
+<img width="769" alt="Schermafbeelding 2022-03-09 om 21 50 05" src="https://user-images.githubusercontent.com/70690100/157533662-4d14bb6c-4868-4baa-934c-57a4b4186ba4.png">
+Dit is de media query van 768 pixels (tablet)
+
+<img width="499" alt="Schermafbeelding 2022-03-09 om 21 50 15" src="https://user-images.githubusercontent.com/70690100/157533742-82101372-fe6a-4408-a5b8-8502f252b605.png">
+Dit is de media query van 500 pixels (mobiel)
+
+Voorbeeld van de code die gebruikt is voor de media queries:
+<img width="528" alt="Schermafbeelding 2022-03-09 om 21 57 05" src="https://user-images.githubusercontent.com/70690100/157534633-3baee196-0ba7-43b2-9e79-db3f0e845081.png">
+
+<h2>Conclusie</h2>
+Ik vind dat ik in dit vak heel erg veel geleerd heb over CSS. Ik ben dan ook zeer tevreden over wat ik in dit vak gedaan heb. Ik vind persoonlijk dat ik mij in dit vak erg goed heb ontwikkeld en veel heb geleerd. Ik heb voor mijzelf al m'n leerdoelen behaald. Ik heb heel veel geleerd over positionering, door middel van het gebruik van een grid. Tevens heb ik veel geleerd over kleur en styling en het maken van een responsive design. Dit waren voor mij de focuspunten van dit vak, dit mede omdat dit nog heel vaak gaat voorkomen in het coderen van website's en is naar mijn mening ook een van de fundamentels in het worden van een goede front end developer. Ik moet wel eerlijk zijn dat ik het uiteindelijke design iets moooier had gewild, ik ben nu nog niet 100% tevreden over het design. De reden dat dit nog niet optimaal is is omdat ik door problemen met de responsivness en grid veel tijd de laatste week kwijt was aan het responsive make van mijn design. Ik vind het erg jammer dat ik het design niet volledig heb kunnen maken. maar ben aan de andere kant ook heel blij hier mee. Dit omdat ik hierdoor mij heb kunnen verdiepen in media queries en hier door veel geleerd heb over het maken van een responsive design. Al met al vond ik het een geslaagd maar vooral ook heel leuk vak en project.
+
 
 
 
